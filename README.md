@@ -70,7 +70,15 @@ Attached Below is the Sketch of the interface
 
 ![p1 Matthew Tomjack](https://user-images.githubusercontent.com/70035779/192925657-0f3a9f2a-fa96-4b1b-b02e-4d59b4349921.jpeg)
 
+I chose to have the screen at a size of 750 X 750 
 
+Interactive Features included into the design
+- Clicking and holding on the open door button will make the button light up yellow indicating that the door is being held open and as soon as you release the button will go back to its normal state just like a normal elevator would
+- Clicking and holding on the close door button will make the button light up yellow indicating that the door is being forced to close and as soon as you release the button will go back to its normal state just like a normal elevator would
+- Clicking on the CALL, or STOP, or ALARM will make the button turn from dark red to bright red indicating the button was clicked and once you click that button again the command is canceled
+- clicking on the first or second floor will make the button light up yellow indicating that its been pressed and it will go back to its normal state when you arrive on the selected floor
 
 Processing Interface GIF
+
+![p1 Matthew Tomjack](https://user-images.githubusercontent.com/70035779/192932877-0ec49309-4aa4-464d-94de-5484d05a2467.gif)
 
