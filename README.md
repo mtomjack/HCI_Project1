@@ -20,5 +20,42 @@ The Issues of The Current Design
    
    
 
+Common Uses For An Elevator
+
+- Calling the elevator
+- Choosing the floor
+- Closing the door faster
+- Holding the door open
+
+Rare Uses For An Elevator
+- Call operator
+- Fire alarm button
+- Emergency stop
 
 
+Common Sequence of Action
+1) First call the elevator on the outside panel
+2) On the inside panel select your floor
+3) If you see people coming click and hold the door open button
+4) If you do not see anyone coming and are wanting to go faster hold the door close button
+
+
+How Elevators Support Users In How To Make It Work
+- Having symbols that indicate what each button does. 
+- For example labeling a button 1,2,3,4 would indicate there are four floors one being the bottom and 4 being the top. As well as labeling a button with arrows inwards, that indicates that you will be closing the doors and outwords indicates that you will be opening the door
+
+
+How Elevators Provide Feedback To The User
+- Buttons will light up when you press them indicating that you are performing that function
+- Sounds such as dings will indicate when you have arrived at a floor
+
+
+Common Mistakes With The Current Design
+1) If people are in a rush and just take a quick glance at the control panel they could select the wrong button at the bottom and unintetionally click an emergency button because of how cluttered and unorganized the bottom is.
+2) A user may mistake which floor they are on because of how the layout of the buttons are. If they are on the bottom floor and they step into the elevator since they are next to each other and the lobby is located upstairs people could mistakenly click the number one button thinking that it is referencing the building from top to bottom. 
+
+Improvements to the Control Interface
+
+
+
+- 
